@@ -1,4 +1,4 @@
-export default {
+const tailwindConfig = {
   theme: {
     extend: {
       fontFamily: {
@@ -7,3 +7,5 @@ export default {
     },
   },
 };
+
+export default tailwindConfig;
